@@ -69,6 +69,7 @@ To see how you can add code snippets, see below:
   grid-template-rows: 2fr 1fr 2fr;
 }
 ```
+## Thank you for visiting
 
 
 
